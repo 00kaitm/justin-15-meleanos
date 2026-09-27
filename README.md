@@ -1,6 +1,6 @@
 # Invitación: 15 años de Justin
 
-A small Spanish-language invitation card for the Ruiz family, with an RSVP form. No build step,
+A small Spanish-language invitation card for the Meleaños family, with an RSVP form. No build step,
 free hosting on GitHub Pages, RSVPs collected with a free Formspree form.
 
 ## Run locally
